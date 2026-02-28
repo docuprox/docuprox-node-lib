@@ -1,6 +1,6 @@
 {
   "name": "docuprox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "docuprox.js",
   "description": "A Node.js library and server for processing files using the Docuprox API.",
   "keywords": [
@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/docuprox/docuprox-node-lib/issues"
   },
-  "homepage": "https://github.com/docuprox/docuprox-node-lib#readme"
+  "homepage": "https://github.com/docuprox/docuprox-node-lib#readme",
+  "devDependencies": {}
 }
